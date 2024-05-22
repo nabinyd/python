@@ -2,22 +2,125 @@
 
 Welcome to my Python repository! Here, you'll find a comprehensive collection of Python notebooks covering everything from the basics to advanced topics. Whether you're just starting with Python or looking to deepen your understanding of its intricacies, you'll find valuable resources here.
 
+####*If you are facing to open notebook file then you can visit this link :*
+
+(https://nbviewer.org/github/nabinyd/python/blob/main/python.ipynb)
+
 ## Table of Contents
 
-1. [Introduction to Python](01_Introduction_to_Python.ipynb)
-2. [Data Types and Variables](02_Data_Types_and_Variables.ipynb)
-3. [Control Flow Statements](03_Control_Flow_Statements.ipynb)
-4. [Functions](04_Functions.ipynb)
-5. [Data Structures](05_Data_Structures.ipynb)
-6. [Object-Oriented Programming](06_Object_Oriented_Programming.ipynb)
-7. [File Handling](07_File_Handling.ipynb)
-8. [Exception Handling](08_Exception_Handling.ipynb)
-9. [Regular Expressions](09_Regular_Expressions.ipynb)
-10. [Modules and Packages](10_Modules_and_Packages.ipynb)
-11. [Decorators and Generators](11_Decorators_and_Generators.ipynb)
-12. [Advanced Topics](12_Advanced_Topics.ipynb)
-
-Each notebook is designed to be self-contained, providing explanations and code examples to reinforce your learning.
+1. Docstring
+2. Input
+3. Parameter in `print()` Function
+4. Print Function Syntax
+    - objects (positional argument):
+    - sep (keyword argument, default is a single space ' '):
+    - end (keyword argument, default is a newline '\n'):
+    - file (keyword argument, default is sys.stdout):
+    - flush (keyword argument, default is False):
+    - Example with All Parameters:
+5. Importing Module
+    - Import Specific Name
+    - Import with Alias
+6. Python List Comprehension
+    - Advanced Example
+    - How It Works
+7. Format Method in String
+    - Format Specifiers:
+    - Binary Integer Formatting:
+    - Exponential Representation:
+    - Using f-Strings (Python 3.6+):
+8. String Methods in Python
+    - upper() and lower():
+    - capitalize() and title():
+    - strip(), lstrip(), and rstrip():
+    - center(width, fillchar), ljust(width, fillchar), and rjust(width, fillchar):
+    - find(substring, start, end) and index(substring, start, end):
+    - replace(old, new, count):
+    - split(sep, maxsplit):
+    - join(iterable):
+9. Data Type Conversion
+    - Implicit Type Conversion
+    - Explicit Type Conversion
+10. Python Numbers
+    - Using `isinstance()` in Functions:
+    - type() Function:
+    - issubclass() Function:
+11. Python Math Module
+12. Python Random Module
+13. Namespace and Scope
+    - Namespace:
+    - Scope:
+    - Local Scope
+    - Enclosing (Non-local) Scope
+    - Global Scope
+    - Built-in Scope
+14. Python `global` Keyword
+15. Iterator in Python
+    - Iteration Using `for`
+16. Inheritance in Python
+    - Accessing Class Attribute
+17. Python Function
+    - Syntax of Function
+    - Python Function Arguments
+18. Python Error and Exception
+    - Try... Exception... Finally
+    - User Defined Exception
+19. Python OOP Approach
+    - Nested Dictionary Implementation
+        - Adding Elements to Dictionary
+        - Deleting Element from Nested Dictionary
+        - Iteration Through Items
+20. Python Operator Overloading
+21. Python Generator
+    - What is Generator?
+    - How to Create a Generator?
+    - Benefits of Generators
+    - Handling StopIteration
+22. Python Decorators
+    - What is Decorator?
+    - Function Wrapper and Arguments
+    - Using Multiple Decorators
+    - Decorators With Arguments
+    - Real World Example
+    - Preserving Function Metadata
+23. Python Matrix Implementation
+    - Using Nested List
+    - Creating a Dynamic Matrix
+        - Initializing Empty Matrix
+        - Adding Rows
+        - Adding a Column
+        - Removing Rows Dynamically
+        - Removing Column Dynamically
+        - Creating Dynamic Matrix Using For Loop
+24. Regular Expressions in Python
+    - Basics of Regular Expression
+    - Special Characters in Regex
+    - Escape Sequence Characters:
+    - Advanced Concepts
+        - Groups and Capturing
+        - Named Groups
+        - Non-capturing Group
+        - Lookahead and Lookbehind
+            - Positive Lookahead
+            - Negative Lookahead
+            - Positive Lookbehind
+            - Negative Lookbehind
+    - Common re Module Functions
+    - Flags
+    - Email Address Checking
+25. Python File Handling
+    - Reading Method
+    - Writing to a File
+    - Writing Methods
+    - Closing a File
+    - Context Manager (Recommended)
+26. Shallow Copy and Deep Copy
+    - Creating a Copy Using Shallow Copy
+    - Shallow Copy
+    - Deep Copy
+27. Lambda Function
+    - Use Cases
+28. Python `@property`
 
 ## Getting Started
 
